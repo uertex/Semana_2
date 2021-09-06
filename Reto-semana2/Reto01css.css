@@ -1,0 +1,29 @@
+html{
+    text-align: center;
+    font-family: arial;
+}
+h2{
+    color: gray;
+}
+input{
+	width:400px;
+    height:40px;
+	padding:3px 10px;
+	border:1px solid rgb(150, 150, 150);
+	border-radius:3px;
+    font-weight: bold;
+}
+::placeholder{
+    color: rgb(170, 170, 170);
+}
+
+button{
+    width:100px;
+    height:40px;
+    border-width: 0px;
+    font-weight: bold;
+    color: white;
+    background-color:rgb(3, 170, 3);
+    border-left-style: none;
+    font-size: medium;
+}

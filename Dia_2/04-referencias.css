@@ -1,0 +1,21 @@
+h1, article{
+    text-decoration: underline;
+}
+article p{
+    background-color: aquamarine;
+}
+ol > li{
+    color: rebeccapurple;
+}
+article > p{
+    color: red;
+}
+#caja > span{
+    background-color: yellow;
+}
+tr:nth-of-type(even){
+    background-color: chocolate;
+}
+tr:nth-of-type(odd){
+    background-color: yellow;
+}
